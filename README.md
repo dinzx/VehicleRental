@@ -1,4 +1,4 @@
 # Vehicle Rental Desktop Application
-Using Java
-Eclipse IDE
-Swing
+- Using Java
+- Eclipse IDE
+- Swing
